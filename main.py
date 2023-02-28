@@ -3,7 +3,7 @@ import pandas
 
 screen = turtle.Screen()
 screen.title("INDIA State Game")
-image = "india state.gif"
+image = "india_state.gif"
 screen.setup(500, 400)
 screen.addshape(image)
 turtle.shape(image)
